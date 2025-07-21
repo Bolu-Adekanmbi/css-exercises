@@ -1,0 +1,14 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* This is just a test to make sure that descendant id selectors are also working */
+/* div #styled {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
